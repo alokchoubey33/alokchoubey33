@@ -49,10 +49,10 @@ With expertise in **Data Visualization, BI Tools, and Analytics**, I help busine
 ## 📬 Contact Me  
 <p align="center">
   <a href="mailto:ialokchoubey833@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://https://www.linkedin.com/in/alok-kumar-342a25162/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-  </a>
+  <a href="https://www.linkedin.com/in/alok-kumar-342a25162"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/alokchoubey33"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="tel:+918130652189"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>  
+
 
 ---
